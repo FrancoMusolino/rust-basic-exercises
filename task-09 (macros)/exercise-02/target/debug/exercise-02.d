@@ -1,0 +1,1 @@
+C:\Users\Franco\Desktop\Repositorios\rust-practicas\udemy-rust-programming-course\task-09\ (macros)\exercise-02\target\debug\exercise-02.exe: C:\Users\Franco\Desktop\Repositorios\rust-practicas\udemy-rust-programming-course\task-09\ (macros)\exercise-02\src\main.rs
